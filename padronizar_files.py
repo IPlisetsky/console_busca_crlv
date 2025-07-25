@@ -2,7 +2,7 @@ import os
 import re
 import pandas as pd
 
-dir = r"C:\Backup - OneDrive\novo dnv\Área de Trabalho\teste"
+dir = r""
 funciono = dir + r"\funcionando"
 
 padrao = r"[A-Z]{3}[0-9]{1}[A-Z]{1}[0-9]{2}"
